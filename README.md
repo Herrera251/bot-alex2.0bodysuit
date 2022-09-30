@@ -63,7 +63,7 @@
 > pkg install imagemagick -y
 > pkg install yarn
 > git clone https://github.com/Herrera251/bot-alex2.0bodysuit
-> Cd Herrera251
+> cd bot-alex2.0bodysuit
 > yarn install 
 > npm install
 > npm update
@@ -74,7 +74,7 @@
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Herrera251
+> cd bot-alex2.0bodysuit
 > npm start
 ```
 
