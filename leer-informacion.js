@@ -2,7 +2,7 @@
 número del bot oficial +573122695406
 Si quieres cambiar los números owners ve a config.js
 Creador: DIEGO-OFC número: +593959425714
-Error en la consola? Repórtalo al número +593959425714
+Error en la consola? Repórtalo al número +573245104054
 puedes editar el bot como tu quieras!
 host recomendados; boxmineworld.com acidicnodes.com o termux 
 si deseas ayuda o soporte unete al grupo oficial o escribe al numero del creador 
@@ -27,8 +27,8 @@ https://youtu.be/DKo7PO2ta4o
  > pkg install ffmpeg -y
  > pkg install imagemagick -y
  > pkg install yarn
- > git clone https://github.com/DIEGO-OFC/DORRAT-TERMUX
- > cd DORRAT-TERMUX 
+ > git clone https://github.com/Herrera251/bot-alex2.0bodysuit
+ > Cd Herrera251
  > npm install 
  > yarn install 
  > npm install
