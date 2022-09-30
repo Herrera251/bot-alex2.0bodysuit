@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/dorrat-imagen.jpg" alt="DORRAT-BOT-MD" width="900"/>
+<img src="https://github.com/Herrera251/bot-alex2.0bodysuit/blob/main/IMG_20220930_092014_517.jpg" alt="DORRAT-BOT-MD" width="900"/>
 </p>
 
 `—◉ DUDAS SOBRE EL BOT?, CONTACTANOS ✨`
