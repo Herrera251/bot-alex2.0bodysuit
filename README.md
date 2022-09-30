@@ -63,7 +63,7 @@
 > pkg install imagemagick -y
 > pkg install yarn
 > git clone https://github.com/Herrera251/bot-alex2.0bodysuit
-> cd DORRAT-TERMUX
+> Cd Herrera251
 > yarn install 
 > npm install
 > npm update
@@ -83,8 +83,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 - DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A DORRAT-TERMUX $  
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd 
-> cd DORRAT-TERMUX
+> Cd Herrera251
 > rm -rf DORRATSESSION 
 > npm start
 ```
