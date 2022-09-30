@@ -26,7 +26,7 @@
 
 # `❤️BOTS OFICIALES`
 
-<a href="http://wa.me/573245104054" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/573245104054" target="blank"><img src="https://img.shields.io/badge/BOT-bodysuit-2.0.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 > [⚠️] USAR LOS BOTS SIN SPAM
 
