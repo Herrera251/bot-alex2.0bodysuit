@@ -12,7 +12,7 @@ los numeros del bot oficial son: wa.me/573122695406 o wa.me/240555351060
 bot creado para la diversión de usuarios 
 DORR∆T-BOT-MD CREATE BY DIEGO-OFC 
 GRUPO OFICIAL: 
-https://chat.whatsapp.com/CrsOmirjZNYKrvnQNT98Oo 
+https://chat.whatsapp.com/IlmNa0htasZDNGaVriSrCQ 
               si necesitas ayuda unete al grupo oficial 
                Grax por leer
 *—◉ 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 𝚃𝙴𝚁𝙼𝚄𝚇*:
